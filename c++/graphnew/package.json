@@ -1,0 +1,12 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "type":"module",
+  "description": "simple",
+  "main": "app.js",
+  "scripts": {                                                           
+    "test": "npm start"
+  },
+  "author": "",
+  "license": "ISC"
+}
